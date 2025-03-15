@@ -1,0 +1,29 @@
+{
+  "name": "test-asignment",
+  "version": "1.0.0",
+  "description": "Andersen Test Asignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/void20005/test-asignment.git"
+  },
+  "author": "Aliaksandr Rabau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/void20005/test-asignment/issues"
+  },
+  "homepage": "https://github.com/void20005/test-asignment#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.5.3"
+  },
+    "env": {
+      "jest": true
+    }
+}
